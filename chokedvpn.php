@@ -1,11 +1,11 @@
-2.3
+2.4
 ⚠️รายละเอียดในการอัปเดต🔻
 = แก้ไขเซิร์ฟเวอร์
-Free_Th-Inet-01 New 
-Free_Th-Inet-02 New 
-Free_Th-Inet-03 New 
-Free_Th-Inet-04 New 
-Free_Th-Inet-05 New 
+Free_Sg-Digital-01 New 
+Free_Sg-Digital-02 New 
+Free_Sg-Digital-03 New 
+Free_Sg-Digital-04 New 
+Free_Sg-Digital-05 New 
 เซิร์ฟเวอร์ทั้งหมด
 - Game 5 เซิร์ฟเวอร์
 1ถึง5
@@ -14,7 +14,6 @@ Free_Th-Inet-05 New
 - Ready 4 เซิร์ฟเวอร์
 1ถึง4
 - SG 20 เซิร์ฟเวอร์
-- Contabo
 - Smooth
 - Digital
 - Core
