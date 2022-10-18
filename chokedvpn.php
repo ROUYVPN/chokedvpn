@@ -1,11 +1,16 @@
-2.4
+2.5
 ⚠️รายละเอียดในการอัปเดต🔻
 = แก้ไขเซิร์ฟเวอร์
-Free_Sg-Digital-01 New 
-Free_Sg-Digital-02 New 
-Free_Sg-Digital-03 New 
-Free_Sg-Digital-04 New 
-Free_Sg-Digital-05 New 
+Free_Game-01 New 
+Free_Game-02 New 
+Free_Game-03 New 
+Free_Game-04 New 
+Free_Game-05 New 
+Free_Inet-01 New 
+Free_Inet-02 New 
+Free_Inet-03 New 
+Free_Inet-04 New 
+Free_Inet-05 New 
 เซิร์ฟเวอร์ทั้งหมด
 - Game 5 เซิร์ฟเวอร์
 1ถึง5
